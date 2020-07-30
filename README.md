@@ -1,6 +1,6 @@
 # instagram
 
-Instagram App
+Basic Instagram App.
 
 ## Getting Started 
 
@@ -16,7 +16,7 @@ Features
 - Edit profile.
 - Story (24hrs Time span).
 
-![1](https://user-images.githubusercontent.com/66123919/88883225-6bbdb480-d251-11ea-8ebe-fbb2dd55b0f0.gif)![2](https://user-images.githubusercontent.com/66123919/88883228-6d877800-d251-11ea-8a79-7d05a54449d3.gif)
+![1](https://user-images.githubusercontent.com/66123919/88883225-6bbdb480-d251-11ea-8ebe-fbb2dd55b0f0.gif)![2](https://user-images.githubusercontent.com/66123919/88883228-6d877800-d251-11ea-8a79-7d05a54449d3.gif)</br>
 ![3](https://user-images.githubusercontent.com/66123919/88883234-72e4c280-d251-11ea-84c4-941ecd8e5ec1.gif)![4](https://user-images.githubusercontent.com/66123919/88883235-7415ef80-d251-11ea-8f75-ef593acce5fe.gif)
 
 

@@ -7,7 +7,7 @@ Basic Instagram App.
 This project is a starting point for a Android application.
 
 
-Features-
+Features -
 - Users can easily Post pictures.
 - Search Users.
 - Follow and unfollow.
